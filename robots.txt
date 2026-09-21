@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://eruiop972.github.io/revo/sitemap.xml
